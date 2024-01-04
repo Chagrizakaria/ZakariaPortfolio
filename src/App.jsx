@@ -2,10 +2,10 @@
 import {
   Navbar,
   Competance,
-  Experience,
+
  About,
   Info,
-  Projet, Footer ,Contact,Formations
+  Projet, Footer ,Contact
 } from './components';
 export default function App() {
   return (

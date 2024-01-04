@@ -2,7 +2,6 @@ import Zakaria from "./Group 1.png";
 import pngegg4 from './pngegg4.png';
 import pngegg1 from './pngegg1.png';
 import Frame2 from './Frame2.png';
-import book from "./png-transparent-book-cover-leather-paper-bookbinding-european-old-books-leather-textile-sewing-removebg-preview.png";
 import bac from "./Bac.jpg";
 import attestation from "./AttestationDeveloppement.jpg" ;
 import Diplome from "./DiplomeDiagnostique.jpg";
@@ -56,7 +55,7 @@ import portfolio from "./PortfolioZakaria.png";
 import tailwind from "./png-transparent-tailwind-css-hd-logo-removebg-preview.png"
 import menu from "./menu.svg";
 import close from "./close.svg";
-export {menu ,close , tailwind,portfolio,vite,inertia,gmail,watsp,zakariasvg,Hadith2,aboutimg,dev,zakaria2,linkorange,chalk,tableau,Zakaria ,pngegg4,pngegg1,Frame2,book,bac,
+export {menu ,close , tailwind,portfolio,vite,inertia,gmail,watsp,zakariasvg,Hadith2,aboutimg,dev,zakaria2,linkorange,chalk,tableau,Zakaria ,pngegg4,pngegg1,Frame2,bac,
     attestation,
     Diplome,
     Relvet,Format,experience,digidiplome,

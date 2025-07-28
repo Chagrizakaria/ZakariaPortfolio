@@ -16,7 +16,7 @@ import {bac,
     figma ,
      python,
     startuml ,
-    trello,Hadith2,inertia,vite,portfolio, tailwind} from "../assets";
+    trello,Hadith2,inertia,vite,portfolio, tailwind,AnfaEvent,spring,angular} from "../assets";
 export const navLinks = [
     {
         
@@ -201,6 +201,14 @@ export const MyProject=[
     image:portfolio,
     content:["Portfolio qui presente mes projets , mes competance et certificat , et  CV détaillé.  "],
     pourcentage:pourc100,url:"/",teck:[react,vite, tailwind]
+
+},
+{
+    id:"Projet-6",
+    title:"Anfa Events",
+    image:AnfaEvent,
+    content:["Platforme de gestion des événements "],
+    pourcentage:pourc100,url:"https://playful-dieffenbachia-52377e.netlify.app/home",teck:[spring,angular,bootstrap,css]
 
 },
 

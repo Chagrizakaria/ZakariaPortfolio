@@ -10,15 +10,15 @@ import {watsp,gmail} from "../assets"
 
 <h1 className='  title mt-16 bg-sky-300 w-auto px-2 rounded-lg mx-auto text-center text-sky-500 font-bold'>Contact</h1>
 <div className=''>
-<div className='flex items-center justify-between  bg-green-400 w-60 h-10 rounded mx-auto my-4'>
-  <a href="https://wa.me/+212655605085" className='flex items-center  text-white'>
+<div className='flex items-center justify-between  bg-green-400 w-72 h-10 rounded mx-auto my-4'>
+  <a href="https://wa.me/+212655605085" className='flex items-center text-white'>
     <img src={watsp} alt="" className='mx-2 w-11' />
     <span className=''>+212655605085</span>
   </a>
 </div>
 
-<div className='flex items-center justify-between bg-red-400 w-60 h-10 rounded mx-auto'>
-  <a href="mailto:chagri.zakaria98@gmail.com" className='flex items-center text-white'>
+<div className='flex items-center justify-between bg-red-400 w-72 h-10 rounded mx-auto'>
+  <a href="mailto:chagri.zakaria98@gmail.com" className='flex items-center  text-white'>
     <img src={gmail} alt="" className='mx-2 w-11' />
     <span>chagri.zakaria98@gmail.com</span>
   </a>

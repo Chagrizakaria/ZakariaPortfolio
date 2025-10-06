@@ -18,9 +18,9 @@ import {watsp,gmail} from "../assets"
 </div>
 
 <div className='flex items-center justify-between bg-red-400 w-60 h-10 rounded mx-auto'>
-  <a href="mailto:zikochagr@gmail.com" className='flex items-center text-white'>
+  <a href="mailto:chagri.zakaria98@gmail.com" className='flex items-center text-white'>
     <img src={gmail} alt="" className='mx-2 w-11' />
-    <span>zikochagr@gmail.com</span>
+    <span>chagri.zakaria98@gmail.com</span>
   </a>
 </div>
 </div>

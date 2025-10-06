@@ -15,7 +15,7 @@ const About = () => {
     <p className='respon-about-p text-2xl text-white  font-serif mb-12'>
         Je suis un développeur full stack passionné, spécialisé dans la création de sites web avec React et Laravel. Récemment diplômé en développement digital, j'allie créativité et expertise technique pour concevoir des solutions innovantes et intuitives. Mon engagement envers l'excellence transparaît dans chaque ligne de code que j'écris.
     </p>
-         <a className=' p-2 rounded-lg  bg-sky-200 text-black hover:bg-sky-500 hover:text-white  max-sm:text-sm' href={CV} download="CHAGRI.pdf" > Telecharger mon CV </a>
+         <a className=' p-2 rounded-lg  bg-sky-200 text-black hover:bg-sky-500 hover:text-white  max-sm:text-sm' href={CV} download="CvZakaria.pdf" > Telecharger mon CV </a>
         
 </div>
 </div>
